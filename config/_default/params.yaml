@@ -21,7 +21,7 @@ twitter: ""
 # Contact (edit or remove options as required)
 
 email: pvossler@usc.edu
-phone: 888 888 88 88
+# phone: 888 888 88 88
 address:
   street: 3670 Trousdale Pkwy
   city: Los Angeles
@@ -40,7 +40,7 @@ appointment_url: "https://calendly.com"
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow me on Twitter
     link: "https://twitter.com/ppatrickv"
   # - icon: skype
   #   icon_pack: fab
@@ -68,7 +68,7 @@ main_menu:
 
 # Localization
 
-date_format: "Jan 2, 2006"
+date_format: "Jan 2006"
 time_format: "3:04 PM"
 address_format: en-us
 
@@ -145,7 +145,7 @@ map:
   api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ""
+  google_analytics: "UA-131365621-1"
   google_tag_manager: ""
   google_site_verification: ""
   baidu_site_verification: ""

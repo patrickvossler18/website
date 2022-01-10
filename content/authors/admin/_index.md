@@ -14,13 +14,13 @@ organizations:
   url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on developing new statistical methodologies for high-dimensional data and expanding our theoretical understanding of commonly-used machine learning methods in high-dimensional settings.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Nonparametric and semi-parametric statistics
+- Random Forests
 
 # Education to show in About widget
 education:
@@ -30,7 +30,7 @@ education:
     year: 2022 (expected)
   - course: B.S. in Economics and Mathematics
     institution: University of Southern California
-    year: 2008
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:pvossler@usc.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ppatrickv
@@ -67,8 +67,13 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a statistics Ph.D. candidate at the University of Southern California. My advisors are Prof. [Yingying Fan](http://faculty.marshall.usc.edu/Yingying-Fan/) and Prof. [Jinchi Lv](http://faculty.marshall.usc.edu/jinchi-lv). I received my B.S. in Mathematics and Economics from USC in 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research focuses on developing new statistical methodologies for high-dimensional data and expanding our theoretical understanding of commonly-used machine learning methods in high-dimensional settings. I am particularly interested in developing non-parametric methods with rigorous statistical guarantees for causal inference problems.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/PV_CV_Updated_Fall_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<b>I am on the 2021-2022 job market.</b>
+
+
