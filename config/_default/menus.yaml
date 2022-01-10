@@ -25,3 +25,6 @@ main:
   - name: CV
     url: "docs/PV_CV_Updated_Fall_2021.pdf"
     weight: 40
+  - name: "Arxiv Sanity Preserver: Statistics"
+    url: "http://arxiv-sanity-stats.patvoss.me/"
+    weight: 40
