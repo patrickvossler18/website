@@ -35,4 +35,5 @@ url_code: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+draft: true
 ---
