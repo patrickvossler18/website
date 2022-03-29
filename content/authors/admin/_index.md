@@ -67,13 +67,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a statistics Ph.D. candidate at the University of Southern California. My advisors are Prof. [Yingying Fan](http://faculty.marshall.usc.edu/Yingying-Fan/) and Prof. [Jinchi Lv](http://faculty.marshall.usc.edu/jinchi-lv). I received my B.S. in Mathematics and Economics from USC in 2017.
+I am a statistics Ph.D. candidate at the University of Southern California's Marshall School of Business department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations). My advisors are Prof. [Yingying Fan](http://faculty.marshall.usc.edu/Yingying-Fan/) and Prof. [Jinchi Lv](http://faculty.marshall.usc.edu/jinchi-lv). In the fall, I will be joining the [Regulation, Evaluation, and Governance Lab](https://reglab.stanford.edu/) at Stanford Law School as a Postdoctoral Researcher.
 
 
 My research focuses on developing new statistical methodologies for high-dimensional data and expanding our theoretical understanding of commonly-used machine learning methods in high-dimensional settings. I am particularly interested in developing non-parametric methods with rigorous statistical guarantees for causal inference problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/PV_CV_Updated_Fall_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-<b>I am on the 2021-2022 job market.</b>
 
 
